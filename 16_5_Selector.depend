@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1625132472 source:c:\Котобаза\jaggernaut\16_5_selector\crab.c
+	"head_crab.h"
+	"halflife.h"
+
+1625132083 c:\Котобаза\jaggernaut\16_5_selector\head_crab.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1625124375 source:c:\Котобаза\jaggernaut\16_5_selector\life.c
+
+1625132083 c:\Котобаза\jaggernaut\16_5_selector\halflife.h
+	"head_crab.h"
+
+1625140723 source:c:\Котобаза\jaggernaut\16_5_selector\main.c
+	"halflife.h"
+	"head_crab.h"
+
+1625132573 source:c:\Котобаза\jaggernaut\16_5_selector\life_2.c
+	"halflife.h"
+	"head_crab.h"
+
+1625141189 source:d:\rescue_21\Си\chapter_16_train\16.5_16.6_16.7_project\16_2_selector\main.c
+	"halflife.h"
+	"head_crab.h"
+
+1625132083 d:\rescue_21\Си\chapter_16_train\16.5_16.6_16.7_project\16_2_selector\halflife.h
+	"head_crab.h"
+
+1625132083 d:\rescue_21\Си\chapter_16_train\16.5_16.6_16.7_project\16_2_selector\head_crab.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1625132472 source:d:\rescue_21\Си\chapter_16_train\16.5_16.6_16.7_project\16_2_selector\crab.c
+	"head_crab.h"
+	"halflife.h"
+
+1625132573 source:d:\rescue_21\Си\chapter_16_train\16.5_16.6_16.7_project\16_2_selector\life_2.c
+	"halflife.h"
+	"head_crab.h"
+
